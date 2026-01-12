@@ -1,0 +1,8 @@
+{
+  "name": "As-Sunnah Foundation Clone",
+  "description": "A high-performance, aesthetically pleasing charity foundation platform inspired by As-Sunnah Foundation, featuring donation tracking, project management, a Zakat calculator, and an AI spiritual assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
